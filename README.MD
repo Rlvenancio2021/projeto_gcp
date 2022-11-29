@@ -7,3 +7,10 @@ Para este projeto, temos o desenho dos grupos de acesso, para determinar os usu�
 [Estrutura de Pastas](image/organizacao_rodrigolvenancio-organizacao_gcp.drawio.png)
 
 [Estrutura de grupos/usuários](image/organizacao_rodrigolvenancio-organizacao_grupos.drawio.png)
+
+
+## Desafio de Orçamento
+
+Print da tela para demonstrar o orçamento criado com os alertar.
+
+[Orçamento](image/orcamento.png)
