@@ -14,3 +14,16 @@ Para este projeto, temos o desenho dos grupos de acesso, para determinar os usu�
 Print da tela para demonstrar o orçamento criado com os alertar.
 
 [Orçamento](image/orcamento.png)
+
+
+## Desafio Personalizando Dashboard
+
+Print de tela com uma personalização pessoal. Link abaixo para verificar o print.
+
+[Dashboard](image/dasboard.png)
+
+## Desafio de Troca de Idioma
+
+Print da tela com idioma alterado para Inglês EUA. Link abaixo para verificar o print. 
+
+[Troca de idioma](image/troca_idioma.png)
